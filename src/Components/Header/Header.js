@@ -41,7 +41,7 @@ const Header  = () => {
         every classroom,<br/>
         Real Results</span>
         {/* </Typography> */}
-       <Typography sx={{lineHeight:"200%",paddingY:"10px",fontSize:"15px"}}>We’re a nonprofit with the mission to provide a free, world-class education for anyone, anywhere.
+       <Typography sx={{color:"gray",lineHeight:"200%",paddingY:"10px",fontSize:"15px"}}>We’re a nonprofit with the mission to provide a free, world-class education for anyone, anywhere.
        {/* Learners,teachers and parents: */}
        </Typography>
         <Button variant='contained' sx={{padding:"15px 25px","&:hover":{outline:"2px solid blue",outlineOffset:"3px"}}}>Start here</Button>
